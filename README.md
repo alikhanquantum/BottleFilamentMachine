@@ -13,4 +13,4 @@ The significance of this project cannot be overstated. Firstly, it contributes t
 The implementation of this project involves several technologies, including an extruder, a spool winder, and speed controllers. The extruder melts the plastic and extrudes it through a nozzle, creating the filament. The spool winder winds the filament onto a spool, ready to be used in a 3D printer. In addition, the machine has a temperature control mechanism to ensure better control during the extrusion process.
 In conclusion, the bottle filament maker machine is a groundbreaking project that addresses environmental and economic concerns. It is an excellent example of the intersection between technology and environmental sustainability, and it has the potential to contribute significantly to a greener, more sustainable future.
 2.	Details of insides:
-![alt text](https://ibb.co/dWFm7g6)
+![alt text](https://github.com/alikhanquantum/BottleFilamentMachine/blob/main/shcematics.jpg)
